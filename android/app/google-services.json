@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "652881261933",
+    "project_id": "todo-22096",
+    "storage_bucket": "todo-22096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652881261933:android:80a56480b37743e050d664",
+        "android_client_info": {
+          "package_name": "com.example.psspl_bloc_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652881261933-sk0ha0tndcffmmsob8gnsu0i3264767n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psspl_bloc_demo",
+            "certificate_hash": "92de8ecc7cab402b7d0687f8e76d136f58648c45"
+          }
+        },
+        {
+          "client_id": "652881261933-buem3boebqv40kk9327jvbnn9qcn3vpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1TplHG4uo1rrVe9xpjUzECm82vRU40WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652881261933-buem3boebqv40kk9327jvbnn9qcn3vpe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "652881261933-inno362p3o6d9m9p9aqe239m729t7d60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pssplBlocDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
